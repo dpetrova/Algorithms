@@ -15,7 +15,7 @@ namespace _01_sum_array
 
         static int Sum(int[] arr, int index)
         {
-            if(index == arr.Length - 1) //base case
+            if(index == arr.Length - 1) //bottom of recursion
             {
                 return arr[index];
             }

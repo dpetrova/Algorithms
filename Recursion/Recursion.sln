@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_generate_bits", "04_gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_generate_combinations", "05_generate_combinations\05_generate_combinations.csproj", "{04D48393-1956-4D09-8337-CAF1195EA240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_eight_queens(v1)", "07_eight_queens(v1)\06_eight_queens(v1).csproj", "{222D0F97-031F-4072-8C4C-395D3C0DA699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_eight_queens(v2)", "07_eight_queens(v2)\07_eight_queens(v2).csproj", "{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{04D48393-1956-4D09-8337-CAF1195EA240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04D48393-1956-4D09-8337-CAF1195EA240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04D48393-1956-4D09-8337-CAF1195EA240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222D0F97-031F-4072-8C4C-395D3C0DA699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222D0F97-031F-4072-8C4C-395D3C0DA699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222D0F97-031F-4072-8C4C-395D3C0DA699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222D0F97-031F-4072-8C4C-395D3C0DA699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -22,7 +22,7 @@ namespace _04_generate_bits
             {
                 for (int i = 0; i <= 1; i++)
                 {
-                    vector[index] = i;
+                    vector[index] = i;                    
                     Generate(index + 1, vector);
                 }
             }

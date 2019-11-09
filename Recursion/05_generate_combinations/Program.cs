@@ -7,10 +7,10 @@ namespace _05_generate_combinations
     {
         static void Main()
         {            
-            var set = new []{ 1, 2, 3, 4 };
-            var subset = new int[2];
+            var set = new []{ 1, 2, 3, 4, 5 };
+            var subset = new int[3];
             
-            GenerateCombinations(0, -1, set, subset);
+            GenerateCombinations(0, 0, set, subset);
         }
 
         private static void GenerateCombinations(int index, int border, int[]set, int[]subset)
@@ -22,10 +22,10 @@ namespace _05_generate_combinations
             }
             else
             {
-                for (int i = border + 1; i < set.Length; i++)
+                for (int i = border; i < set.Length; i++)
                 {                    
                     subset[index] = set[i];
-                    GenerateCombinations(index + 1, i, set, subset);
+                    GenerateCombinations(index + 1, i + 1, set, subset);
                 }
             }
         }
