@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_eight_queens(v1)", "07_e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_eight_queens(v2)", "07_eight_queens(v2)\07_eight_queens(v2).csproj", "{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_all_paths_in_labyrinth", "08_all_paths_in_labyrinth\08_all_paths_in_labyrinth.csproj", "{0AB82510-3E88-48F6-8252-1A114EE4C499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{502BE711-C2EB-45E2-BA32-BD7DB6D2502D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB82510-3E88-48F6-8252-1A114EE4C499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB82510-3E88-48F6-8252-1A114EE4C499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB82510-3E88-48F6-8252-1A114EE4C499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB82510-3E88-48F6-8252-1A114EE4C499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
