@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_combinations_with_repeti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_tower_of_hanoi", "12_tower_of_hanoi\12_tower_of_hanoi.csproj", "{665161DD-8870-45DD-B966-254763AE83FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_combination_without_repetitions", "13_combination_without_repetitions\13_combination_without_repetitions.csproj", "{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_connected_areas_in_matrix", "14_connected_areas_in_matrix\14_connected_areas_in_matrix.csproj", "{28567683-6457-4FFE-9ECA-FE2471C733E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{665161DD-8870-45DD-B966-254763AE83FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{665161DD-8870-45DD-B966-254763AE83FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{665161DD-8870-45DD-B966-254763AE83FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
