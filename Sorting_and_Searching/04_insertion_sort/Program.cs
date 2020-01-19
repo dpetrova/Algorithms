@@ -1,5 +1,4 @@
 ﻿using System;
-using SortingHelperMethods;
 
 namespace _04_insertion_sort
 {
