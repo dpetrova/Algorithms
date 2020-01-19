@@ -1,5 +1,5 @@
 ﻿using System;
-using SortingHelperMethods;
+
 namespace _05_merge_sort
 {
     class Program
