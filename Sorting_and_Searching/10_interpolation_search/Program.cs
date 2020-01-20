@@ -6,7 +6,7 @@ namespace _10_interpolation_search
     {
         static void Main()
         {
-            int[] arr = new int[] { -1, 1, 2, 4, 10 }; //work on sorted array
+            int[] arr = new int[] { -1, 1, 2, 4, 10, 14 }; //work on sorted array
             int existingIndex = InterpolationSearch(arr, 10);
             int nonExisitngIndex = InterpolationSearch(arr, 0);
             Console.WriteLine("index of 10: {0}", existingIndex);

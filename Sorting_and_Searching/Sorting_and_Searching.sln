@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_binary_search_recursive"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_interpolation_search", "10_interpolation_search\10_interpolation_search.csproj", "{1D035EE3-C65B-4298-AB80-C0B11D0047CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_words", "11_words\11_words.csproj", "{7DCEDB18-DEA2-44B0-8D3F-587A8AD41729}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1D035EE3-C65B-4298-AB80-C0B11D0047CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D035EE3-C65B-4298-AB80-C0B11D0047CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D035EE3-C65B-4298-AB80-C0B11D0047CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCEDB18-DEA2-44B0-8D3F-587A8AD41729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCEDB18-DEA2-44B0-8D3F-587A8AD41729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCEDB18-DEA2-44B0-8D3F-587A8AD41729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCEDB18-DEA2-44B0-8D3F-587A8AD41729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
