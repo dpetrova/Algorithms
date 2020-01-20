@@ -60,8 +60,7 @@ namespace _11_words
             //if (j + 1 <= letters.Length - 1)
             //{
             //    Console.WriteLine("pre j: {0}", letters[i + 1]);
-            //}
-            
+            //}            
            
             char[] charArray = letters.ToCharArray();
             char temp = charArray[i];
