@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethods", "HelperMeth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_permutations_with_repetitions", "03_permutations_with_repetitions\03_permutations_with_repetitions.csproj", "{A216DB63-1427-4976-8498-808CAFCB2E23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_variations", "04_variations\04_variations.csproj", "{715EEF22-95BA-4ACB-ADA1-19C80A55D33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_variations_with_repetitions", "05_variations_with_repetitions\05_variations_with_repetitions.csproj", "{D09AABA0-B637-4357-A4F5-E91A3C08AEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A216DB63-1427-4976-8498-808CAFCB2E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A216DB63-1427-4976-8498-808CAFCB2E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A216DB63-1427-4976-8498-808CAFCB2E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715EEF22-95BA-4ACB-ADA1-19C80A55D33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715EEF22-95BA-4ACB-ADA1-19C80A55D33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715EEF22-95BA-4ACB-ADA1-19C80A55D33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715EEF22-95BA-4ACB-ADA1-19C80A55D33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09AABA0-B637-4357-A4F5-E91A3C08AEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09AABA0-B637-4357-A4F5-E91A3C08AEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09AABA0-B637-4357-A4F5-E91A3C08AEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09AABA0-B637-4357-A4F5-E91A3C08AEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
