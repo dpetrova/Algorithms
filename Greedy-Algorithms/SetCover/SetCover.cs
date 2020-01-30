@@ -38,7 +38,7 @@
                 //order sets descending by number of elements in them that are currently present in universe
                 sets = sets.OrderByDescending(x => x.Count(e => universe.Contains(e))).ToList();
 
-                //greedy choose this with largest elements
+                //greedy choose this with largest number of elements
                 var currSet = sets.First();
 
                 //add current set to result

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SetCover.Tests", "SetCov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_activity_selection", "05_activity_selection\05_activity_selection.csproj", "{FBDB9B6B-AC41-4F3D-AB32-94DDF2EA8EF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_knapsack", "06_knapsack\06_knapsack.csproj", "{3AF75D5B-F9C2-4EEC-BE27-2570A7A6548F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_knapsack_fractional", "07_knapsack_fractional\07_knapsack_fractional.csproj", "{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{FBDB9B6B-AC41-4F3D-AB32-94DDF2EA8EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBDB9B6B-AC41-4F3D-AB32-94DDF2EA8EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBDB9B6B-AC41-4F3D-AB32-94DDF2EA8EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF75D5B-F9C2-4EEC-BE27-2570A7A6548F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF75D5B-F9C2-4EEC-BE27-2570A7A6548F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF75D5B-F9C2-4EEC-BE27-2570A7A6548F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF75D5B-F9C2-4EEC-BE27-2570A7A6548F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
