@@ -1,8 +1,11 @@
-﻿using System;
+﻿//Given a set of activities S = {a1, a2, …, an}
+//Each having a start & finish time: ai = {si, fi}
+//Activities are "compatible" if they don't overlap, i.e.their intervals do not intersect
+//What is the maximum-size subset of compatible activities, i.e.which is the largest list of compatible activities that can be scheduled?
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05_activity_selection
 {

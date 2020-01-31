@@ -1,4 +1,7 @@
-﻿namespace SumOfCoins
+﻿//Let’s have a range of possible coin values (e.g. 1, 2, 5, 10, 20, 50) and a desired sum. 
+//In this problem, the goal is to reach the sum using as few coins as possible using a greedy approach. 
+
+namespace SumOfCoins
 {
     using System;
     using System.Collections.Generic;

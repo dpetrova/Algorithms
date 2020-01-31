@@ -1,4 +1,14 @@
-﻿using System;
+﻿//A snake is a sequence of several square blocks, attached one after another. 
+//A snake starts with a block at some position and continues with another block to the left, right, up or down, 
+//then again with another block to the left, right, up or down, etc. 
+//A snake of size N consists of a sequence of N blocks and is not allowed to cross itself.
+//You are given a number N and you should find all possible snakes of N blocks, 
+//represented as sequences of moves denoted as: S(start), L(move left), R(move right), U(move up) and D(move down). 
+//Some snakes (sequences of blocks) are the same and should be printed only once. 
+//If after a number of rotations and/or flips two snakes are equal they are considered the same.
+//For example the snakes SRRD, SRRU, SLLD, SLLU, SRUU and SUUR are the same
+
+using System;
 using System.Collections.Generic;
 
 namespace _09_snakes

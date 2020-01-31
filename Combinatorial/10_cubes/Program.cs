@@ -1,8 +1,9 @@
-﻿using System;
+﻿//You are given 12 sticks of the same length, each colored with a color in the range [1 … 4]. 
+//Write a program to find the number of different cubes that can be built using these sticks. 
+//Note that two cubes are equal if a sequence of rotations exists that transforms the first cube to the second. 
+
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _10_cubes
 {

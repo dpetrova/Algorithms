@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_knapsack", "06_knapsack\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_knapsack_fractional", "07_knapsack_fractional\07_knapsack_fractional.csproj", "{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_knight's_tour", "08_knight's_tour\08_knight's_tour.csproj", "{BF5A3101-D1E0-4411-A852-BA2FB55B1522}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA76857A-EFE8-4942-86FC-9DDCFAE26F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5A3101-D1E0-4411-A852-BA2FB55B1522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5A3101-D1E0-4411-A852-BA2FB55B1522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5A3101-D1E0-4411-A852-BA2FB55B1522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5A3101-D1E0-4411-A852-BA2FB55B1522}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

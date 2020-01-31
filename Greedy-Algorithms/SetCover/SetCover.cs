@@ -1,4 +1,9 @@
-﻿namespace SetCover
+﻿//we are given two sets - a set of sets (we’ll call it sets) and a universe. 
+//Universe is a set of elements
+//The sets contain all elements from universe and no others, however, some elements are repeated. 
+//The task is to find the smallest subset of sets which contains all elements in universe. 
+
+namespace SetCover
 {
     using System;
     using System.Collections.Generic;

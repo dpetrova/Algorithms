@@ -1,8 +1,12 @@
-﻿using System;
+﻿//We have N items, each with a certain weight and price. 
+//The knapsack has a maximum capacity, so we need to choose what to take 
+//in order to maximize the value (price) of the items in it. 
+//Unlike the classical version of the problem where an object should either be taken in its entirety or not at all, 
+//in this version we can take a fraction of each item.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _07_knapsack_fractional
 {
