@@ -1,5 +1,7 @@
 ﻿//We have N items, each with a certain weight and price. 
 //The knapsack has a maximum capacity, so we need to choose what to take in order to maximize the value (price) of the items in it. 
+//Hint:
+//Use a greedy algorithm: take the best item (max price / weight) as much as possible, then the next best item, etc.
 
 using System;
 using System.Collections.Generic;
