@@ -1,5 +1,6 @@
 ﻿using System;
-//Fi
+//Calculate fibonacci using top-down recursion with memoization
+
 namespace _01_fibonacci_top_down_with_memoization
 {
     class Program
