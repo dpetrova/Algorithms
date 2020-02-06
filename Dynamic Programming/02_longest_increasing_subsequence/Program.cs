@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+ 
 //Find longest increasing subsequence of given sequence of numbers
 
 namespace _02_longest_increasing_subsequence
@@ -13,7 +10,7 @@ namespace _02_longest_increasing_subsequence
         static void Main()
         {
             int[] sequence = { 3, 14, 5, 12, 15, 7, 8, 9, 11, 10, 1 };
-            int[] solution = new int[sequence.Length];
+            int[] lengths = new int[sequence.Length];
             int[] prev = new int[sequence.Length];
             int maxSolutionLength = 1;
             int maxSolutionIndex = 0;
@@ -29,7 +26,7 @@ namespace _02_longest_increasing_subsequence
                 for (int j = 0; j < i; j++)
                 {
                     int previousNumber = sequence[j];
-                    int previousSolutionLength = solution[j];
+                    int previousSolutionLength = lengths[j];
 
                     //check if number is increasing and solutions length
                     if(currentNumber > previousNumber && currentSolutionLength < previousSolutionLength + 1)
@@ -39,7 +36,7 @@ namespace _02_longest_increasing_subsequence
                     }
                 }
 
-                solution[i] = currentSolutionLength;
+                lengths[i] = currentSolutionLength;
                 prev[i] = prevIndex;
 
                 if(currentSolutionLength > maxSolutionLength)
