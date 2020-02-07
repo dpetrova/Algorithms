@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_longest_increasing_subse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_move_down_right", "03_move_down_right\03_move_down_right.csproj", "{F32A6933-0731-4803-97A2-9DE64F4B255A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_rod_cutting_recursive", "04_rod_cutting_recursive\04_rod_cutting_recursive.csproj", "{86FECB2B-F428-4133-90B0-7709AFB47FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_roc_cutting_iterative", "05_roc_cutting_iterative\05_roc_cutting_iterative.csproj", "{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F32A6933-0731-4803-97A2-9DE64F4B255A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32A6933-0731-4803-97A2-9DE64F4B255A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32A6933-0731-4803-97A2-9DE64F4B255A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86FECB2B-F428-4133-90B0-7709AFB47FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FECB2B-F428-4133-90B0-7709AFB47FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FECB2B-F428-4133-90B0-7709AFB47FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FECB2B-F428-4133-90B0-7709AFB47FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
