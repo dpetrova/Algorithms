@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_rod_cutting_recursive", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_roc_cutting_iterative", "05_roc_cutting_iterative\05_roc_cutting_iterative.csproj", "{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_binomial_coefficients", "06_binomial_coefficients\06_binomial_coefficients.csproj", "{DEA9E1D0-DAD4-4E56-8C38-3DDDF5AB998E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_longest_zigzag_subsequence", "07_longest_zigzag_subsequence\07_longest_zigzag_subsequence.csproj", "{2143FF00-E140-47A5-905C-43624A0C4377}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDAC343E-07E3-4DC7-BED9-FBA94ECB8A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA9E1D0-DAD4-4E56-8C38-3DDDF5AB998E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA9E1D0-DAD4-4E56-8C38-3DDDF5AB998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA9E1D0-DAD4-4E56-8C38-3DDDF5AB998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA9E1D0-DAD4-4E56-8C38-3DDDF5AB998E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2143FF00-E140-47A5-905C-43624A0C4377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2143FF00-E140-47A5-905C-43624A0C4377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2143FF00-E140-47A5-905C-43624A0C4377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2143FF00-E140-47A5-905C-43624A0C4377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

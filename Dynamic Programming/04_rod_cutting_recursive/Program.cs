@@ -37,7 +37,7 @@ namespace _04_rod_cutting_recursive
 
             var bestPrice = 0;
 
-            //loop through all possible lengths that  current length can be cutted
+            //loop through all possible lengths that rod's current length can be cut further
             for (int i = 1; i <= length; i++)
             {
                 //recursively calculate best price for current length
