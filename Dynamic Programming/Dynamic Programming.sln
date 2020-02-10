@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_binomial_coefficients", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_longest_zigzag_subsequence", "07_longest_zigzag_subsequence\07_longest_zigzag_subsequence.csproj", "{2143FF00-E140-47A5-905C-43624A0C4377}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_minimal_difference", "08_minimal_difference\08_minimal_difference.csproj", "{ED50CBC7-7E3D-43A6-994B-C146CC44BFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_minimal_difference_DP", "09_minimal_difference_DP\09_minimal_difference_DP.csproj", "{062D2865-1B83-4C1A-A27A-0B38321D5218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{2143FF00-E140-47A5-905C-43624A0C4377}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2143FF00-E140-47A5-905C-43624A0C4377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2143FF00-E140-47A5-905C-43624A0C4377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED50CBC7-7E3D-43A6-994B-C146CC44BFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED50CBC7-7E3D-43A6-994B-C146CC44BFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED50CBC7-7E3D-43A6-994B-C146CC44BFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED50CBC7-7E3D-43A6-994B-C146CC44BFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062D2865-1B83-4C1A-A27A-0B38321D5218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062D2865-1B83-4C1A-A27A-0B38321D5218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062D2865-1B83-4C1A-A27A-0B38321D5218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062D2865-1B83-4C1A-A27A-0B38321D5218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

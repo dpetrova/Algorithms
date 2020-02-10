@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //A zigzag sequence is one that alternately increases and decreases. 
 //More formally, such a sequence has to comply with one of the two rules below:
 //    1) Every even element is smaller than its neighbors and every odd element is larger than its neighbors, or
