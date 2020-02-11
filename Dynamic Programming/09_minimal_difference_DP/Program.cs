@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //Alan and Bob are twins. For their birthday they received some presents 
 //and now they need to split them amongst themselves.
 //The goal is to minimize the difference between the values of the presents received by the two brothers,

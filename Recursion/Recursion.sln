@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.902
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_sum_array", "01_sum_array\01_sum_array.csproj", "{57DC107A-5054-45F0-976E-E2869FA38D44}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_combination_without_repetitions", "13_combination_without_repetitions\13_combination_without_repetitions.csproj", "{A11378B9-F557-4EB5-BC89-725B7EDFFBF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_connected_areas_in_matrix", "14_connected_areas_in_matrix\14_connected_areas_in_matrix.csproj", "{28567683-6457-4FFE-9ECA-FE2471C733E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_unlimited_coins_sum", "15_unlimited_coins_sum\15_unlimited_coins_sum.csproj", "{6519FCF3-F662-4F41-975C-08CF10A0DF3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28567683-6457-4FFE-9ECA-FE2471C733E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6519FCF3-F662-4F41-975C-08CF10A0DF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6519FCF3-F662-4F41-975C-08CF10A0DF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6519FCF3-F662-4F41-975C-08CF10A0DF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6519FCF3-F662-4F41-975C-08CF10A0DF3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
