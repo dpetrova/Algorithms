@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //We have a set of certain coins, e.g. 1, 5, 10, 10, 10, 50. 
 //Given a sum S, the task is to find how many combinations of coins will sum up to S. 
 //We can use each of coins only once.
