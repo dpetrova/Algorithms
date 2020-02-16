@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_subset_sum_limited_coins
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_subset_sum_unlimited_coins", "14_subset_sum_unlimited_coins\14_subset_sum_unlimited_coins.csproj", "{33C54FBA-33B3-4BC6-AE38-7BB3D40F0643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_longest_common_subsequence", "15_longest_common_subsequence\15_longest_common_subsequence.csproj", "{2FD0333C-0747-47A9-A11C-0F325DEFEE58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{33C54FBA-33B3-4BC6-AE38-7BB3D40F0643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33C54FBA-33B3-4BC6-AE38-7BB3D40F0643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C54FBA-33B3-4BC6-AE38-7BB3D40F0643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD0333C-0747-47A9-A11C-0F325DEFEE58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD0333C-0747-47A9-A11C-0F325DEFEE58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD0333C-0747-47A9-A11C-0F325DEFEE58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD0333C-0747-47A9-A11C-0F325DEFEE58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

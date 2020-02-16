@@ -18,7 +18,7 @@ namespace _13_subset_sum
             var possibleSums = CalcPossibleSums(numbers);
 
             //recover the subset which sum is equal to target sum
-            RecoverSubset(possibleSums, targetSum);
+            ReconstructSubset(possibleSums, targetSum);
         }
 
         static Dictionary<int, int> CalcPossibleSums(int[] numbers)
@@ -48,7 +48,7 @@ namespace _13_subset_sum
             return possibleSums;
         }
 
-        static void RecoverSubset(Dictionary<int, int> subsetSums, int targetSum)
+        static void ReconstructSubset(Dictionary<int, int> subsetSums, int targetSum)
         {
             if(subsetSums.ContainsKey(targetSum))
             {

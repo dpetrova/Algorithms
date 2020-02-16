@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //We have a set of coins with predetermined values, e.g. 1, 2, 5, 10, 20, 50. 
 //Given a sum S, the task is to find how many combinations of coins will sum up to S.
 //For each value, we can use an unlimited number of coins
@@ -18,7 +16,7 @@ namespace _14_subset_sum_unlimited_coins
 
             var possibleSums = CalcPossibleSums(numbers, targetSum);
 
-            var subset = RecoverSubset(possibleSums, targetSum, numbers);
+            var subset = ReconstructSubset(possibleSums, targetSum, numbers);
         }
 
         static bool[] CalcPossibleSums(int[] numbers, int targetSum)
@@ -53,7 +51,7 @@ namespace _14_subset_sum_unlimited_coins
             return possibleSums;
         }
 
-        static List<int> RecoverSubset(bool[] subsetSums, int targetSum, int[] numbers)
+        static List<int> ReconstructSubset(bool[] subsetSums, int targetSum, int[] numbers)
         {
             var subset = new List<int>();
 
