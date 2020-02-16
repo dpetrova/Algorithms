@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //Imagine you have a bag (knapsack) and you want to fill it with as many of your most valuable items as you can. 
 //The knapsack, of course, cannot hold an infinite number of items, it has a weight limit (capacity). 
 //Based on this capacity, you need to decide which items to put in it to maximize the value of the items in the knapsack.
