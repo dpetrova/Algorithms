@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Considering two sequences S1 and S2, 
 //the longest common subsequence (LCS) is a sequence which is a subsequence of both S1 and S2. 
