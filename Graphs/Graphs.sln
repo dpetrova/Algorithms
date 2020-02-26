@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_depth-first-search", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_breadth-first-search", "02_breadth-first-search\02_breadth-first-search.csproj", "{3D98B394-4F19-49B6-996F-70A58F318A36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_finding_connected_components", "03_finding_connected_components\03_finding_connected_components.csproj", "{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D98B394-4F19-49B6-996F-70A58F318A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D98B394-4F19-49B6-996F-70A58F318A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D98B394-4F19-49B6-996F-70A58F318A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
