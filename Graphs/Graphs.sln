@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_breadth-first-search", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_finding_connected_components", "03_finding_connected_components\03_finding_connected_components.csproj", "{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_topological_sorting", "04_topological_sorting\04_topological_sorting.csproj", "{19285BAE-9EB3-47C6-B0EE-1C73D375F0F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA5E2CFD-A19D-4956-8C54-1E30FDFDC068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19285BAE-9EB3-47C6-B0EE-1C73D375F0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19285BAE-9EB3-47C6-B0EE-1C73D375F0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19285BAE-9EB3-47C6-B0EE-1C73D375F0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19285BAE-9EB3-47C6-B0EE-1C73D375F0F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
