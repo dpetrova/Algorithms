@@ -62,8 +62,7 @@ namespace _02_breadth_first_search
                     }
                     
                 }
-            }
-           
+            }           
         }
     }
 }

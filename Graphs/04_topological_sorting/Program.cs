@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-//Topological sorting (ordering) of a directed graph 
+
+//Source Removal Topological Sorting (ordering) of a directed graph 
 //Linear ordering of its vertices, such that for every directed edge from vertex u to vertex v, u comes before v in the ordering
 
 namespace _04_topological_sorting
