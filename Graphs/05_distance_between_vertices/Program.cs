@@ -55,9 +55,9 @@ namespace _05_distance_between_vertices
                     if (visited[children[i]]) continue;
 
                     // update distance for i
+                    visited[children[i]] = true;
                     distances[children[i]] = distances[currNode] + 1;
-                    vertices.Enqueue(children[i]);
-                    visited[children[i]] = true;                    
+                    vertices.Enqueue(children[i]);                                        
                 }
             }
 
