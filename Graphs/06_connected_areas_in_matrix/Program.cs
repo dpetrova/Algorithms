@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //We are given a matrix of letters of size N * M. Two cells are neighbor if they share a common wall.
 //Write a program to find the connected areas of neighbor cells holding the same letter.

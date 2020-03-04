@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_distance_between_vertice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_connected_areas_in_matrix", "06_connected_areas_in_matrix\06_connected_areas_in_matrix.csproj", "{FDA3F5A3-1407-4E62-861E-C3EEE121F6CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_cycles_in_graph", "07_cycles_in_graph\07_cycles_in_graph.csproj", "{46CB785E-1693-40A4-9044-D68DFE710302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FDA3F5A3-1407-4E62-861E-C3EEE121F6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDA3F5A3-1407-4E62-861E-C3EEE121F6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDA3F5A3-1407-4E62-861E-C3EEE121F6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CB785E-1693-40A4-9044-D68DFE710302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CB785E-1693-40A4-9044-D68DFE710302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CB785E-1693-40A4-9044-D68DFE710302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CB785E-1693-40A4-9044-D68DFE710302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
