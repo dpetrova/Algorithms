@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_connected_areas_in_matri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_cycles_in_graph", "07_cycles_in_graph\07_cycles_in_graph.csproj", "{46CB785E-1693-40A4-9044-D68DFE710302}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_salaries", "08_salaries\08_salaries.csproj", "{6AEE4E3F-6ABD-4A30-A914-1A44E94D17EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{46CB785E-1693-40A4-9044-D68DFE710302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46CB785E-1693-40A4-9044-D68DFE710302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46CB785E-1693-40A4-9044-D68DFE710302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEE4E3F-6ABD-4A30-A914-1A44E94D17EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEE4E3F-6ABD-4A30-A914-1A44E94D17EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEE4E3F-6ABD-4A30-A914-1A44E94D17EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEE4E3F-6ABD-4A30-A914-1A44E94D17EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
