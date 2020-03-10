@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 //We have a hierarchy between the employees in a company. Employees can have one or several direct managers. 
 //People who manage nobody are called regular employees and their salaries are 1. 
 //People who manage at least one employee are called managers. 
