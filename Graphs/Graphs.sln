@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Kruskal_algorithm(MST)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Prim_algoritm(MST)", "10_Prim_algoritm(MST)\10_Prim_algoritm(MST).csproj", "{D12B8868-8E5D-4D43-8C27-05654143E1AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Dijkstra_algorithm", "11_Dijkstra_algorithm\11_Dijkstra_algorithm.csproj", "{0F0F679E-0D0A-4B97-9223-DE6E5050F0FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{D12B8868-8E5D-4D43-8C27-05654143E1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D12B8868-8E5D-4D43-8C27-05654143E1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D12B8868-8E5D-4D43-8C27-05654143E1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0F679E-0D0A-4B97-9223-DE6E5050F0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0F679E-0D0A-4B97-9223-DE6E5050F0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0F679E-0D0A-4B97-9223-DE6E5050F0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0F679E-0D0A-4B97-9223-DE6E5050F0FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

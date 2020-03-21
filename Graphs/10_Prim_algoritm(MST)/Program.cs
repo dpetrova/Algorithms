@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using Wintellect.PowerCollections;
-using System.Text;
-using System.Threading.Tasks;
 
 // Prim's Algorithm to find MST
 // Spanning Tree -> subgraph without cycles (tree) connects all vertices together
@@ -44,9 +42,7 @@ namespace _10_Prim_algoritm_MST_
             spanningTree = new HashSet<Edge>();
             visitedNodes = new HashSet<int>();
             childEdges = new Dictionary<int, List<Edge>>();
-
-            //var startingNode = nodes.First();
-
+            
             //fill childEdges
             foreach (var edge in graph)
             {
