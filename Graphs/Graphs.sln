@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_modified_Kruskal_algorit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_most_reliable_path", "14_most_reliable_path\14_most_reliable_path.csproj", "{84C1BECF-B169-437C-8E37-0109283FBDE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Kosaraju- Sharir_algorithm(SCC)", "15_Kosaraju- Sharir_algorithm(SCC)\15_Kosaraju- Sharir_algorithm(SCC).csproj", "{8946572B-F970-4878-A5EC-BCBFE833F0E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{84C1BECF-B169-437C-8E37-0109283FBDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84C1BECF-B169-437C-8E37-0109283FBDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84C1BECF-B169-437C-8E37-0109283FBDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
