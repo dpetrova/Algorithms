@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_most_reliable_path", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Kosaraju- Sharir_algorithm(SCC)", "15_Kosaraju- Sharir_algorithm(SCC)\15_Kosaraju- Sharir_algorithm(SCC).csproj", "{8946572B-F970-4878-A5EC-BCBFE833F0E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Hopcroft-Tarjan_algorithm(articulation_points)", "16_Hopcroft-Tarjan_algorithm(articulation_points)\16_Hopcroft-Tarjan_algorithm(articulation_points).csproj", "{2683B3AE-FB22-43F3-BA89-D3622FCD4083}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8946572B-F970-4878-A5EC-BCBFE833F0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

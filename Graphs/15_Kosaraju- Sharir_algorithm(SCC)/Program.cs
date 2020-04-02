@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //A strongly connected component is any subgraph in a graph that fulfills the prerequisite
 //that for any two vertices u and v in the subgraph there exists a path from u to v.
