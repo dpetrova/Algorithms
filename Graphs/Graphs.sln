@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Kosaraju- Sharir_algorit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_Hopcroft-Tarjan_algorithm(articulation_points)", "16_Hopcroft-Tarjan_algorithm(articulation_points)\16_Hopcroft-Tarjan_algorithm(articulation_points).csproj", "{2683B3AE-FB22-43F3-BA89-D3622FCD4083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_3_Edmonds-Karp_algorithm(MaxFlow)", "17_3_Edmonds-Karp_algorithm(MaxFlow)\17_3_Edmonds-Karp_algorithm(MaxFlow).csproj", "{A614FAB0-5DBB-48AF-B883-61422BB49DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2683B3AE-FB22-43F3-BA89-D3622FCD4083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A614FAB0-5DBB-48AF-B883-61422BB49DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A614FAB0-5DBB-48AF-B883-61422BB49DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A614FAB0-5DBB-48AF-B883-61422BB49DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A614FAB0-5DBB-48AF-B883-61422BB49DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
