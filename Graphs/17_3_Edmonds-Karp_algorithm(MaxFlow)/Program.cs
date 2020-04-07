@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Max flow algorithm – the Edmonds-Karp algorithm
 //Find the maximum flow possible in the network starting from node 0 and ending in node 5
@@ -47,7 +45,7 @@ namespace _17_3_Edmonds_Karp_algorithm_MaxFlow_
             //reset parents with -1 (no parent)
             parents = Enumerable.Repeat(-1, graph.Length).ToArray();
 
-            //traverse using BFS while there exists a path between end(sink)/start
+            //traverse graph using BFS while there exists a path between end(sink)/start
             while (BFS(start, end))
             {
                 //find the smallest edge capacity we’ve passed in our path
